@@ -1,5 +1,11 @@
 body{ 
 background-color: rgb(175, 93, 175);
 color:aquamarine;
-font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ font-family: "Story Script", sans-serif;
+}
+header{
+font: size: 70px;
+}
+h1{
+    font-size: 30px;
 }
