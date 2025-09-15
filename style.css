@@ -4,8 +4,12 @@ color:aquamarine;
  font-family: "Story Script", sans-serif;
 }
 header{
-font: size: 70px;
+font-size: 50px;
+border: outset  5px aquamarine;
 }
 h1{
-    font-size: 30px;
+    font-size: 20px;
+}
+p{
+    font-size 20px;
 }
