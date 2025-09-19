@@ -2,10 +2,14 @@ body{
 background-color: rgb(175, 93, 175);
 color:aquamarine;
  font-family: "Story Script", sans-serif;
+ margin: 0px;
 }
 header{
 font-size: 50px;
-border: outset  5px aquamarine;
+border-bottom:  outset  5px aquamarine;
+text-align: center;
+/*margin: 30px;*/
+padding: 30px;
 }
 h1{
     font-size: 20px;
