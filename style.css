@@ -10,7 +10,7 @@ border-bottom:  outset  5px aquamarine;
 text-align: center;
 /*margin: 30px;*/
 padding: 30px;
-coler: rgb(252, 247, 247) 
+color: rgb(252, 247, 247) 
 }
 h1{
     font-size: 20px;
@@ -22,7 +22,12 @@ p{
 section{
 background-color: rgb(198, 131, 226);
 padding-bottom: 80px;
+padding-top: 80px;
 display: flex;
 justify-content: center;
 
+}
+
+.chamada-texto{
+margin-right: 10%;
 }
