@@ -17,11 +17,11 @@ h1{
     color: white;
 }
 p{
-    font-size 20px;
+    font-size 30px;
     color: white;
 }
 
-section{
+.chamada{
 background-color: rgb(198, 131, 226);
 padding-bottom: 80px;
 padding-top: 80px;
@@ -32,4 +32,24 @@ justify-content: center;
 
 .chamada-texto{
 margin-right: 10%;
+}
+img{
+    width: 200px;
+    height: 300px;
+}
+
+.outrasopçẽs{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+    padding-left: 20px;
+
+}
+
+h2{
+    padding-left: 30px;
+}
+
+body{
+    padding-bottom: 40px;
 }
